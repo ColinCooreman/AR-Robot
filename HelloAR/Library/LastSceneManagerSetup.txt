@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/GoogleARCore/HelloARExample/Scenes/Robot_AR.unity
+  isLoaded: 1
+  isActive: 1
